@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiencse&label=Profile%20views&color=0e75b6&style=flat" alt="chiencse" /> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently working on **Ho Chi Minh University Of Teachnology**
 
-- 🌱 I’m currently learning **Ho Chi Minh University**
+- 🌱 I’m currently learning **Ho Chi Minh University Of Teachnology**
 
-- 👨‍💻 All of my projects are available at [https://chiencse.github.io/myportfolio/](https://chiencse.github.io/myportfolio/)
+- 👨‍💻 All of my projects are available at [https://chiencse.github.io/portfolio](https://chiencse.github.io/portfolio)
 
-- 💬 Ask me about **React, NestJs,**
+- 💬 Ask me about **React, NextJs, NestJs, Spring Boot, Python**
 
 - 📫 How to reach me **minhchien662004@gmail.com**
 
